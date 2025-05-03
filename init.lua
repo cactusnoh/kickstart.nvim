@@ -161,6 +161,8 @@ vim.opt.scrolloff = 10
 -- See `:help 'confirm'`
 vim.opt.confirm = true
 
+vim.cmd 'language en_US'
+
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
 
